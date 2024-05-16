@@ -6,6 +6,10 @@ Here you will find misc files and documentation for the piano.
   - [Electronics \& Schematics](#electronics--schematics)
   - [Code and Runtime](#code-and-runtime)
 
+## [Presentation & Writeup](./Presentation%20and%20Writeup/)
+This folder contains the presentations and writeups for our projects.
+* [Presentation (PDF)](./Presentation%20and%20Writeup/Player%20Piano.pdf)
+* [Presentation (PPTX)](./Presentation%20and%20Writeup/Player%20Piano.pptx)
 
 ## [3D Models](./3D%20Models/README.md)
 This folder contains the 3D models for the piano. The models are in `.stl` format and can be viewed in any 3D modeling software. There are also `.f3z` files which are the original files for the 3D models in the Fusion 360 software.
