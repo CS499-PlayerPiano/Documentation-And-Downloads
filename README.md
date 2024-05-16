@@ -16,6 +16,8 @@ This folder contains the 3D models for the piano. The models are in `.stl` forma
 
 ## [Electronics & Schematics](./Electronics%20and%20Schematics/README.md)
 This folder contains the schematics for the piano, and the PCB design files.
+* [V1.0](./Electronics%20and%20Schematics/v1.0/)
+* [V1.1](./Electronics%20and%20Schematics/v1.1/)
 
 ## [Code and Runtime](./Code%20and%20Runtime/)
 This folder contains info how to run and configure the various programs that run the piano.
