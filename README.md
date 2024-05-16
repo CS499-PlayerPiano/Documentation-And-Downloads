@@ -2,6 +2,7 @@
 Here you will find misc files and documentation for the piano.
 
 - [Documentation and Downloads](#documentation-and-downloads)
+  - [Presentation & Writeup](#presentation--writeup)
   - [3D Models](#3d-models)
   - [Electronics \& Schematics](#electronics--schematics)
   - [Code and Runtime](#code-and-runtime)
