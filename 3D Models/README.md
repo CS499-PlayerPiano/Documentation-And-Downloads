@@ -32,3 +32,10 @@ Files:
 
 - [Striker](./Threaded%20Rod%20Connectors/Striker.stl) - Connects the threaded rod to hit the keys
 ![Striker](/assets/3D%20Model%20Renders/Striker.png)
+
+- [Power Strip Bracket](./PowerStripBracket.stl)
+![](/assets/3D%20Model%20Renders/PowerStripBracket.png)
+
+- [Power Supply Mount](./Power%20Supply/)
+![](/assets/3D%20Model%20Renders/PSBracket.png)
+![](/assets/3D%20Model%20Renders/PSSlidePreventer.png)
