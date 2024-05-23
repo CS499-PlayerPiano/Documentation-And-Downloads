@@ -9,6 +9,7 @@ Here you will find misc files and documentation for the piano.
 
 ## [Presentation & Writeup](./Presentation%20and%20Writeup/)
 This folder contains the presentations and writeups for our projects.
+* [Final Presentation Video](https://www.youtube.com/watch?v=wYrI8wo7iek)
 * [Final Writeup (PDF)](./Presentation%20and%20Writeup/Player%20Piano%20Final%20Report.pdf)
 * [Presentation (PDF)](./Presentation%20and%20Writeup/Player%20Piano.pdf)
 * [Presentation (PPTX)](./Presentation%20and%20Writeup/Player%20Piano.pptx)
